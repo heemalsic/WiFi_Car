@@ -6,6 +6,7 @@ Components used:
 -L298N Motor driver  
 -Hobby Gearmotor  
 -Tires  
+-LiPo batteries  
 -Breadboard  
 -Jumper Wires  
 
