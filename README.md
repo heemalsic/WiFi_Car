@@ -2,7 +2,7 @@
 A basic ESP8266 nodemcu based wifi
 
 Components used:
--NodeMCU
+\n -NodeMCU
 -L298N Motor driver
 -Hobby Gearmotor
 -Tires
