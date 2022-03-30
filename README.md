@@ -1,7 +1,7 @@
 # WiFi_Car
 A basic wifi car
 
-Components used:
+Components used:  
 -ESP8266 NodeMCU  
 -L298N Motor driver  
 -Hobby Gearmotor  
